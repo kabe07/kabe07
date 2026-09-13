@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Martín
 
-<!--
-**kabe07/kabe07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de Programación | UTN**
 
-Here are some ideas to get you started:
+## 🧠 Sobre mí
+Soy estudiante avanzado de la Tecnicatura Universitaria en Programación 
+(UTN), con experiencia práctica en desarrollo backend usando Java 
+y Spring Boot, y desarrollo de aplicaciones con C#. Además de 
+estudiar, gestiono mi propio emprendimiento, lo que me dio 
+experiencia en organización y trato con clientes. Busco mi primera 
+oportunidad en el área IT para seguir creciendo como desarrollador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack
+- Lenguajes: Java, C#
+- Frameworks: Spring Boot, Vaadin, WinForms
+- Bases de datos: PostgreSQL
+- Herramientas: Git, Maven, Postman
+
+## 📫 Contacto
+- LinkedIn: https://www.linkedin.com/in/martinfernandezminni
+- Email: martinfernandezminni@gmail.com
